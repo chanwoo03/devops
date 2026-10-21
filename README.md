@@ -1,19 +1,21 @@
 # DevOps
 
-2026-2학기 실습
+2026-2학기 DevOps 수업에서 배운 내용과 실습을 정리한 저장소임.
 
-프로젝트 : DevOps 실습 정리
+## 사용 환경
 
-사용 환경 : Windows, WSL2 Ubuntu, Git, Docker Desktop
+- Windows
+- WSL2 Ubuntu
+- Git
+- Docker Desktop
 
-https://github.com/chanwoo03
+## GitHub
 
-week02
-https://github.com/chanwoo03/devops/week02/README.md
-week03
-https://github.com/chanwoo03/devops/week03/README.md
-week04
-https://github.com/chanwoo03/devops/week02/README.md
+- [프로필](https://github.com/chanwoo03)
+- [실습 저장소](https://github.com/chanwoo03/devops)
 
+## 주차별 정리
 
-저장소가 공개 상태인 것을 확인할 수 있는 캡처
+- [2주차 - 실습 환경 구축과 버전 관리 기초](./week02/README.md)
+- [3주차 - 셸 스크립팅](./week03/README.md)
+- [4주차 - 자동화와 협업 및 네트워크](./week04/README.md)
