@@ -17,5 +17,5 @@
 ## 주차별 정리
 
 - [2주차 - 실습 환경 구축과 버전 관리 기초](./week02/README.md)
-- [3주차 - 셸 스크립팅](./week03/README.md)
+- [3주차 - 셸 스크립팅](./week03/qwen-web/README.md)
 - [4주차 - 자동화와 협업 및 네트워크](./week04/README.md)
