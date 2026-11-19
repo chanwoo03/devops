@@ -95,6 +95,7 @@ def index():
         visits=visits,
         entries=get_entries(),
         storage="Redis" if redis_client else "Memory",
+	print(APP_TITL)
     )
 
 
